@@ -28,7 +28,7 @@ https://user-images.githubusercontent.com/85018020/160469993-0384bd2a-7a10-4883-
 [View Presentation as PDF](https://github.com/namanarora97/Instacart-Deep-Dive/files/8365595/findings.pdf)
 
 
-*Made with ❤ and 🦙 by [Akshay](github.com/akshaybahadur21) and [Naman](github.com/namanarora97)*
+*Made with ❤ and 🦙 by [Akshay](https://github.com/akshaybahadur21) and [Naman](https://github.com/namanarora97)*
 
 
 
