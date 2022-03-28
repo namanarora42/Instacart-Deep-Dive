@@ -13,6 +13,10 @@ There is an interesting article about this published by the Washington Post whic
 * I wanted to learn more about the obvious, things that'll make you go, "Oh yeah, of course, that makes sense!"
 * I also wanted to find things that might make you go, "Are you serious? That can't be right". These findings lead us to some questions, that can aid in the future decision making process for any business.
 
+## Dataset
+
+[Instacart Kaggle Market Basket Analysis](https://www.kaggle.com/c/instacart-market-basket-analysis/data)
+
 ## Key Findings
 
 * Buying trends change rapidly and exhibit seasonality across the day and week
