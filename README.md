@@ -25,3 +25,7 @@ There is an interesting article about this published by the Washington Post whic
 
 ## Video Walkthrough
 ![video](assets/Instacart-deep-dive-video.mp4)
+
+
+https://user-images.githubusercontent.com/85018020/160469681-ac69d63d-730a-41f0-a4d6-317731cc7235.mp4
+
