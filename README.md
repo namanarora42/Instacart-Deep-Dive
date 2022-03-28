@@ -1,6 +1,6 @@
 # How does US buy groceries? 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/namanarora97/Instacart-Deep-Dive/blob/main/instacart-deep-dive-analysis.ipynb)
 
 Almost all of human behavior is predictable. This psychological phenomenon is exploited by physical grocery to the best extent possible.  
 
@@ -20,13 +20,15 @@ There is an interesting article about this published by the Washington Post whic
 * There are some odd outliers in items that aren’t be reordered very often - *do Instacart customers just not like to stick to their favorite brand of shampoo?*
 * A small chunk of users drive a large chunk of business - *we see the Pareto rule in action*
 
-## Presentation
-[findings.pdf](https://github.com/namanarora97/Instacart-Deep-Dive/files/8365595/findings.pdf)
-
 
 ## Video Walkthrough
 https://user-images.githubusercontent.com/85018020/160469993-0384bd2a-7a10-4883-b336-505dc9da44e5.mp4
 
+## Presentation
+[View Presentation as PDF](https://github.com/namanarora97/Instacart-Deep-Dive/files/8365595/findings.pdf)
+
+
+*Made with ❤ and 🦙 by [Akshay](github.com/akshaybahadur21) and [Naman](github.com/namanarora97)*
 
 
 
