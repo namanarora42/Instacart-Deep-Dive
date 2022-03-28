@@ -21,10 +21,13 @@ There is an interesting article about this published by the Washington Post whic
 * A small chunk of users drive a large chunk of business - *we see the Pareto rule in action*
 
 ## Presentation
-![presentation](assets/findings.pdf)
+[findings.pdf](https://github.com/namanarora97/Instacart-Deep-Dive/files/8365595/findings.pdf)
+
 
 ## Video Walkthrough
-![video](https://user-images.githubusercontent.com/85018020/160469681-ac69d63d-730a-41f0-a4d6-317731cc7235.mp4)
+https://user-images.githubusercontent.com/85018020/160469993-0384bd2a-7a10-4883-b336-505dc9da44e5.mp4
+
+
 
 
 
